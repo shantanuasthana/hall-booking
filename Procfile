@@ -1,0 +1,1 @@
+web: node task2.js
